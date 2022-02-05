@@ -1,3 +1,3 @@
 export const getWelcomeString = (name) =>{
-    return `Welcome ${name} to our project`
+    return `Hi!! Welcome ${name} to our project`
 }

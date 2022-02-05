@@ -8,6 +8,12 @@
     "packages": [
       "packages/*"
     ],
-    "nohoist": ["**/react-native", "**/react-native/**"]
+    "nohoist": [
+      "**/react-native",
+      "**/react-native/**"
+    ]
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
   }
 }
