@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repo": "https://github.com/sgwanlee/yarn-workspace-react-react-native",
   "private": true,
   "workspaces": {
     "packages": [
@@ -15,5 +16,12 @@
   },
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "changelog": {
+    "labels": {
+      "Type: Feature": "Features",
+      "Type: Bug": "Bug fixes",
+      "Type: Enhancement": "Enhancements"
+    }
   }
 }
